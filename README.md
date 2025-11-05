@@ -102,7 +102,7 @@ email-validation-challenge/
 ```bat
 cd email-validation-challenge
 
-python -m venv .venv
+python -m venv venv
 venv\Scripts\activate
 
 pip install -r requirements.txt
