@@ -9,7 +9,7 @@ Implement robust validation for:
 2. **Email addresses** (sender/receiver)
 3. **HTML payload placeholders** (e.g., `{first_name}`)
 
-All logic must be written in `src/validator/validator.py`. The file currently contains empty function bodies — you must implement them so the tests pass.
+All logic must be written in `src/validator/validator.py`. The file currently contains empty function bodies, you must implement them so the tests pass.
 
 ---
 
